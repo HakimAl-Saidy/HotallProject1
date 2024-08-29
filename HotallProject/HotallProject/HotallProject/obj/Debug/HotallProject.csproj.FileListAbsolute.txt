@@ -1,1 +1,11 @@
 D:\اععمالي\HotallProject\HotallProject\HotallProject\bin\Debug\HotallProject.exe.config
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\bin\Debug\HotallProject.exe.config
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\bin\Debug\HotallProject.exe
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\bin\Debug\HotallProject.pdb
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\obj\Debug\HotallProject.csproj.AssemblyReference.cache
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\obj\Debug\HotallProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\obj\Debug\HotallProject.Properties.Resources.resources
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\obj\Debug\HotallProject.csproj.GenerateResource.cache
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\obj\Debug\HotallProject.csproj.CoreCompileInputs.cache
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\obj\Debug\HotallProject.exe
+C:\Users\عبد الخالق\Documents\GitHub\HotallProject1\HotallProject\HotallProject\HotallProject\obj\Debug\HotallProject.pdb
